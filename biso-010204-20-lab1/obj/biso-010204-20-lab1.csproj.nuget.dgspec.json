@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\biso-010204-20-lab1\\biso-010204-20-lab1\\biso-010204-20-lab1.csproj": {}
+    "C:\\Users\\Александр\\Source\\Repos\\leoska\\biso-010204-20-lab1\\biso-010204-20-lab1\\biso-010204-20-lab1.csproj": {}
   },
   "projects": {
-    "D:\\biso-010204-20-lab1\\biso-010204-20-lab1\\biso-010204-20-lab1.csproj": {
+    "C:\\Users\\Александр\\Source\\Repos\\leoska\\biso-010204-20-lab1\\biso-010204-20-lab1\\biso-010204-20-lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\biso-010204-20-lab1\\biso-010204-20-lab1\\biso-010204-20-lab1.csproj",
+        "projectUniqueName": "C:\\Users\\Александр\\Source\\Repos\\leoska\\biso-010204-20-lab1\\biso-010204-20-lab1\\biso-010204-20-lab1.csproj",
         "projectName": "biso-010204-20-lab1",
-        "projectPath": "D:\\biso-010204-20-lab1\\biso-010204-20-lab1\\biso-010204-20-lab1.csproj",
-        "packagesPath": "C:\\Users\\Leo77\\.nuget\\packages\\",
-        "outputPath": "D:\\biso-010204-20-lab1\\biso-010204-20-lab1\\obj\\",
+        "projectPath": "C:\\Users\\Александр\\Source\\Repos\\leoska\\biso-010204-20-lab1\\biso-010204-20-lab1\\biso-010204-20-lab1.csproj",
+        "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Александр\\Source\\Repos\\leoska\\biso-010204-20-lab1\\biso-010204-20-lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Leo77\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
